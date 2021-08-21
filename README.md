@@ -1,6 +1,4 @@
-## 👋  Hi, I’m  <a href="https://michaelrausch.nz/">Michael</a>        
-
-
+# 👋  Hi, I’m  <a href="https://michaelrausch.nz/">Michael</a>        
 
 🌱 I’m currently learning (or wanting to learn*)
   - Redux Toolkit
@@ -9,11 +7,8 @@
   - Kubernetes*
   - Django*
   - Ember*
-  - 
 
-📫 email: michael@rausch.nz
-
-
+📫 michael@rausch.nz
 
 <!--
 **michaelrausch/michaelrausch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
