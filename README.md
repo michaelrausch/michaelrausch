@@ -1,6 +1,6 @@
 # 👋  Hi, I’m  <a href="https://michaelrausch.nz/">Michael</a>        
 
-🌱 I’m currently learning (or wanting to learn*)
+### 🌱 I’m currently learning (or wanting to learn*)
   - Redux Toolkit
   - Github Actions
   - Go
@@ -8,24 +8,17 @@
   - Django*
   - Ember*
 
-📫 michael@rausch.nz
+### 📫 michael@rausch.nz
 
-<!--
-**michaelrausch/michaelrausch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Latest Release -  Barber & Co
 
-Here are some ideas to get you started:
+### Created Using
+ - Swift - iOS
+ - React Native - Android
+ - NodeJS
+ - Firebase
+ - MongoDB
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Download
 
-
-
-
-
-
-
-
+[Download on the App Store](https://apps.apple.com/nz/app/barber-co/id1541086997?itsct=apps_box_badge&amp;itscg=30200) or [Download on the Play Store](https://play.google.com/store/apps/details?id=com.barbercoandroid&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
