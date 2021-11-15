@@ -19,6 +19,8 @@
  - Firebase
  - MongoDB
 
+[Read More](https://barberandco.co.nz/2021/09/19/barbershop-app/)
+
 ### Download
 
 [Download on the App Store](https://apps.apple.com/nz/app/barber-co/id1541086997?itsct=apps_box_badge&amp;itscg=30200) or [Download on the Play Store](https://play.google.com/store/apps/details?id=com.barbercoandroid&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
