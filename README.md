@@ -1,12 +1,11 @@
 # 👋  Hi, I’m  <a href="https://michaelrausch.nz/">Michael</a>        
 
 ### 🌱 I’m currently learning (or wanting to learn*)
-  - Redux Toolkit
-  - Github Actions
   - Go
+  - Cloudflare Workers
+  - Ember
   - Kubernetes*
   - Django*
-  - Ember*
 
 ### 📫 michael@rausch.nz
 
@@ -18,6 +17,8 @@
  - NodeJS
  - Firebase
  - MongoDB
+ - Grafana
+ - Docker Swarm
 
 [Read More](https://barberandco.co.nz/2021/09/19/barbershop-app/)
 
