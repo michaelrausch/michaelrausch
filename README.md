@@ -1,3 +1,4 @@
-# 👋  Hi, I’m  <a href="https://michaelrausch.nz/">Michael</a>        
+# 👋   
 
 ### 📫 michael@rausch.nz
+### <a href="https://michaelrausch.nz/">https://michaelrausch.nz</a>      
